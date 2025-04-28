@@ -139,7 +139,7 @@ const Pricing = () => {
               stable coverage
             </FeatureItem>
             <FeatureItem>
-              <CheckMark>✓</CheckMark> One on a gimbal for cinematic movement 📱
+              <CheckMark>✓</CheckMark> One on a gimbal for cinematic movement
             </FeatureItem>
             <FeatureItem>
               <CheckMark>✓</CheckMark> Live mixing for seamless scene
