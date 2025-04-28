@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from "react";
 import styled from "styled-components";
-import hdCameraImg from "../assets/hd_4k_camera.jpg";
+import hdCameraImg from "../assets/multi_camera_livestream.png";
 import audioEquipmentImg from "../assets/audio_equipment.png";
 import liveStreamingGearImg from "../assets/live_streaming_gear.png";
 import hdmiWirelessImg from "../assets/HD_HDMI_wireless_video_transmission.png";
